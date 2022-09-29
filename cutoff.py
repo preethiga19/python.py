@@ -1,0 +1,5 @@
+a=int(input("Enter Maths mark:"))
+b=int(input("Enter Physics mark:"))
+c=int(input("Enter Chemistry mark:"))
+cutoff=a+(b/2)+(c/2)
+print("Engineering cutoff:",cutoff)
